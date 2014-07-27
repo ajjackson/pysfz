@@ -74,4 +74,4 @@ This project is licensed under the GPLv3; a license file should be included in t
 ### Disclaimer ###
 
 This project is not related to Cakewalk in any way. 
-To the best of my knowledge the SFZ format is royalty-free and there are no SFZ-related restrictions on the use of this project.
+To the best of my knowledge the SFZ format is royalty-free and there are no SFZ-related restrictions on the use of this project. I take no responsibility if this breaks your stuff; see the LICENSE file for details.
